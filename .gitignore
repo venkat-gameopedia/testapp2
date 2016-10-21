@@ -22,5 +22,5 @@ coverage/
 .DS_Store
 public/.DS_Store
 *.swp
-log/
+log/*.log
 config/database.yml
